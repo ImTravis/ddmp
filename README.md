@@ -3,7 +3,7 @@
 创业做的数据中台，用于大数据采集、存储、分析，包括治理等。现在转型了，整体源码打包售卖；有需要的联系，价格绝对公道，低价出售，可用于接项目，
 
 ### 微信：
-<img width="20" height="20" alt="64546c212cb52d4419fdfd8c055f34a9" src="https://github.com/user-attachments/assets/57c8c009-fac7-4e3c-80c9-0deeb263888d" />
+<img width="80" height="80" alt="64546c212cb52d4419fdfd8c055f34a9" src="https://github.com/user-attachments/assets/57c8c009-fac7-4e3c-80c9-0deeb263888d" />
 
 
 ## 📋 目录
