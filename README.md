@@ -122,8 +122,7 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 > 📍 **数据中台的基础层，负责多源异构数据的统一接入与流转**
 
 #### 1.1 数据源管理
-![替代文本]([图片 URL](https://github.com/ImTravis/ddmp/blob/main/image/10.png
-))
+![image](https://github.com/ImTravis/ddmp/blob/main/image/10.png)
 
 **核心能力**
 - 统一数据源接入：支持关系型数据库、NoSQL、文件系统、消息队列等多种数据源
