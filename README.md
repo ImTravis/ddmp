@@ -138,7 +138,7 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 | NoSQL | MongoDB、Redis、Elasticsearch |
 | 消息队列 | Kafka、RabbitMQ |
 | 文件系统 | HDFS、FTP、S3、本地文件 |
-
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/2.png)
 #### 1.2 离线数据同步
 
 **核心能力**
@@ -153,7 +153,7 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 - 任务操作：支持编辑、复制、上线、下线、单次执行、删除等操作
 - 任务检索：按工作流名称、来源数据源、目标数据源进行快速检索
 - 任务监控：实时监控任务执行状态，异常告警及时通知
-
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/4.png)
 #### 1.3 实时同步
 
 **核心能力**
