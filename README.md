@@ -140,7 +140,7 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 | 文件系统 | HDFS、FTP、S3、本地文件 |
  ![image](https://github.com/ImTravis/ddmp/blob/main/image/2.png)
 #### 1.2 离线数据同步
-
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/18.png)
 **核心能力**
 - 可视化任务配置：拖拽式配置同步任务，零代码开发
 - 智能字段映射：自动识别字段类型，支持手动调整映射关系
@@ -198,7 +198,9 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 ### 三、数据建模
 
 > 🏗️ **数据资产构建层，构建企业级数据模型体系**
-![Uploading 14.png…]()
+
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/11.png)
+ ![image]( https://github.com/ImTravis/ddmp/blob/main/image/14.png)
 
 **核心能力**
 - 业务模块管理：按业务域划分数据模型，便于业务理解
@@ -275,7 +277,7 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 ### 六、数据安全
 
 > 🔒 **数据保护层，保障数据安全与合规**
-
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/8.png)
 **核心能力**
 - 敏感数据识别：自动识别身份证、手机号、银行卡等敏感数据
 - 敏感数据分类：按敏感级别对数据进行分类管理
@@ -300,7 +302,8 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 ---
 
 ### 七、数据资产
-
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/15.png)
+  ![image](https://github.com/ImTravis/ddmp/blob/main/image/19.png)
 > 💰 **数据资产化层，实现数据资产管理**
 
 **核心能力**
@@ -325,7 +328,7 @@ DDMP（Data Data Management Platform）是一款**企业级数据中台解决方
 ---
 
 ### 八、数据服务
-
+ ![image](https://github.com/ImTravis/ddmp/blob/main/image/16.png)
 > 🚀 **数据服务化层，将数据能力以服务形式对外提供**
 
 **核心能力**
